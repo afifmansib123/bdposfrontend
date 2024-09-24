@@ -20,7 +20,7 @@ const CheckOrder = ({ isModalOpen, setIsModalOpen, customer }) => {
         <div className="max-w-5xl mx-auto bg-white px-6">
           <article className="overflow-hidden">
             <div className="logo my-6">
-              <h2 className="text-4xl font-bold text-slate-700">POSitive</h2>
+              <h2 className="text-4xl font-bold text-slate-700">BDPOS</h2>
             </div>
             <div className="bill-details">
               <div className="grid sm:grid-cols-4 grid-cols-3 gap-12">

@@ -20,7 +20,7 @@ const PrintBill = ({ isModalOpen, setIsModalOpen, customer }) => {
         <div className="max-w-5xl mx-auto bg-white px-6">
           <article className="overflow-hidden">
             <div className="logo my-6">
-              <h2 className="text-4xl font-bold text-slate-700">POSitive</h2>
+              <h2 className="text-4xl font-bold text-slate-700">BDPOS</h2>
             </div>
             <div className="bill-details">
               <div className="grid sm:grid-cols-4 grid-cols-3 gap-12">
@@ -209,7 +209,7 @@ const PrintBill = ({ isModalOpen, setIsModalOpen, customer }) => {
               <div className="py-9">
                 <div className="border-t pt-9 border-slate-200">
                   <p className="text-sm font-light text-slate-700">
-                  This POS application is proudly brought to you by Swabaidi InfoTech, delivering innovative solutions for seamless business operations.
+                  This POS application is proudly brought to you by BDPOS, delivering innovative solutions for seamless business operations.
                   </p>
                 </div>
               </div>
